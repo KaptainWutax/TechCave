@@ -21,10 +21,10 @@ SlimeChunkMaster/\.vs/SlimeChunkMaster/v15/\.suo
 
 *.pdb
 
-*.exe
-
 *.ilk
 
 *.log
 
 *.obj
+
+SlimeChunkMaster/Debug/
