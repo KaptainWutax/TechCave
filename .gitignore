@@ -14,3 +14,17 @@
 *.opendb
 
 SlimeChunkMaster/\.vs/SlimeChunkMaster/v15/\.suo
+
+*.tlog
+
+*.idb
+
+*.pdb
+
+*.exe
+
+*.ilk
+
+*.log
+
+*.obj
