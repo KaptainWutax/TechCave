@@ -1,0 +1,16 @@
+
+*.db
+
+*.filters
+
+*.user
+
+*.vcxproj
+
+*.sln
+
+*.ipch
+
+*.opendb
+
+SlimeChunkMaster/\.vs/SlimeChunkMaster/v15/\.suo
