@@ -102,7 +102,7 @@ void PatternSearch::startSearchJava(long long gameSeed, vector<pair<int, int>> b
 			}
 
 			bool isDone = false;
-			for(int x = this->patternWidth + -2; x != -1; --x) {
+			for(int x = this->patternWidth - 2; x != -1; --x) {
 				for(int z = 0; z < this->patternHeight; ++z) {
 					//-----={Start check if slime chunk}=-----//
 					int xr = chunkX + x;
