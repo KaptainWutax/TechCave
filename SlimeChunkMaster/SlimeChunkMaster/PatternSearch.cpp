@@ -36,7 +36,7 @@ void PatternSearch::startSearch(Platform platform, long long gameSeed, vector<pa
 	}
 }
 
-void PatternSearch::startSearchJava(long long gameSeed, vector<pair<int, int>> boundaries, bool searchForAll, bool showDebugInfo) {
+void PatternSearch::startSearchJava(long long gameSeed, vector<pair<int, int>> boundaries, bool searchForAll, bool showDebugInfo) {	
 	if(showDebugInfo) {
 		this->printPattern();
 		this->printMatchTable();
