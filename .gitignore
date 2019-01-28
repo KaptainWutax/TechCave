@@ -30,3 +30,7 @@ SlimeChunkMaster/\.vs/SlimeChunkMaster/v15/\.suo
 SlimeChunkMaster/Debug/
 
 *.enc
+
+SeedUnhasher/\.vs/SeedUnhasher/v15/
+
+SeedUnhasher/Debug/
